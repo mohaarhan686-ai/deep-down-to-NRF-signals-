@@ -202,9 +202,6 @@ The library provides the Arduino interface required to configure and communicate
 
 # 📥 Clone the Repository
 
-```bash
-git clone https://github.com/Surya-8948/Arduino_NRF_Code.git
-```
 
 Then open the required `.ino` file in Arduino IDE.
 
