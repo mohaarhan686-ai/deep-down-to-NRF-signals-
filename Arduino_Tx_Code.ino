@@ -1,7 +1,7 @@
 /*
 ====================================================
  NRF24L01 Transmitter 
- Author : Surya Mani Bajpai
+ Author : Arhan Khan
 ====================================================
 This code sends:
 1. Joystick X
